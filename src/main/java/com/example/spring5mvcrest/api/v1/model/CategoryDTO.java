@@ -11,4 +11,10 @@ public class CategoryDTO {
     public String getName() {
         return "null";
     }
+
+    public void setName(String name) {
+    }
+
+    public void setId(long l) {
+    }
 }
